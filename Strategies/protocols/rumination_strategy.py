@@ -1,5 +1,5 @@
 from typing import Protocol
-class  RuminationStategy(Protocol):
+class RuminationStategy(Protocol):
     def _calculer_lait(self):
         pass
 
